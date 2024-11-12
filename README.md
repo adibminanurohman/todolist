@@ -1,7 +1,3 @@
-Berikut adalah versi yang telah disesuaikan untuk menampilkan screenshot dalam ukuran yang lebih kecil di GitHub:
-
----
-
 # To-Do List App 📝
 
 **To-Do List App** adalah aplikasi manajemen tugas sederhana namun kuat yang dibuat menggunakan Kotlin dan Jetpack Compose. Aplikasi ini didesain untuk membantu Anda mengelola dan mengatur tugas sehari-hari dengan lebih mudah dan efisien. Dengan antarmuka yang intuitif dan bersih, Anda dapat menambahkan, melihat, dan menghapus tugas hanya dengan beberapa kali ketukan. Setiap tugas dilengkapi dengan detail deskripsi untuk memastikan tidak ada tugas yang terlewat.
@@ -24,7 +20,3 @@ Berikut adalah versi yang telah disesuaikan untuk menampilkan screenshot dalam u
 
 ### 💡 Mengapa Menggunakan Aplikasi Ini?
 Aplikasi To-Do List ini dirancang untuk memberikan pengalaman pengguna yang efisien dan mudah digunakan. Baik Anda seorang pelajar, profesional, atau siapa saja yang ingin mengatur tugas harian dengan lebih baik, aplikasi ini adalah solusi tepat untuk menjaga produktivitas Anda tetap optimal.
-
----
-
-Dengan format ini, screenshot akan ditampilkan dalam ukuran yang lebih kecil, dan akan tampak lebih rapi di GitHub. Pastikan untuk memeriksa apakah URL gambar sudah benar dan dapat diakses di repository GitHub Anda.
