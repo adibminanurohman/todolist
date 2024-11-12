@@ -1,3 +1,7 @@
+Berikut adalah versi yang telah disesuaikan untuk menampilkan screenshot dalam ukuran yang lebih kecil di GitHub:
+
+---
+
 # To-Do List App 📝
 
 **To-Do List App** adalah aplikasi manajemen tugas sederhana namun kuat yang dibuat menggunakan Kotlin dan Jetpack Compose. Aplikasi ini didesain untuk membantu Anda mengelola dan mengatur tugas sehari-hari dengan lebih mudah dan efisien. Dengan antarmuka yang intuitif dan bersih, Anda dapat menambahkan, melihat, dan menghapus tugas hanya dengan beberapa kali ketukan. Setiap tugas dilengkapi dengan detail deskripsi untuk memastikan tidak ada tugas yang terlewat.
@@ -9,9 +13,9 @@
 - **Deskripsi Detail**: Setiap tugas dilengkapi dengan deskripsi untuk memastikan Anda tahu persis apa yang perlu dilakukan.
   
 ### 🔍 Screenshots
-| Halaman Utama | Halaman Detail Tugas | Halaman Tambah Tugas |
-|---------------|-----------------------|-----------------------|
-| ![Home](https://path-to-your-image1.jpg) | ![Detail](https://path-to-your-image2.jpg) | ![Add Task](https://path-to-your-image3.jpg) |
+**Halaman Utama** | **Halaman Detail Tugas** | **Halaman Tambah Tugas**
+:-----------------:|:------------------------:|:------------------------:
+<img src="https://github.com/adibminanurohman/todolist/blob/master/app/src/main/res/drawable/home.jpg" width="200" /> | <img src="https://github.com/adibminanurohman/todolist/blob/master/app/src/main/res/drawable/detail.jpg" width="200" /> | <img src="https://github.com/adibminanurohman/todolist/blob/master/app/src/main/res/drawable/add.jpg" width="200" />
 
 ### 🛠️ Teknologi yang Digunakan
 - **Kotlin**: Bahasa pemrograman modern untuk pengembangan Android.
@@ -20,3 +24,7 @@
 
 ### 💡 Mengapa Menggunakan Aplikasi Ini?
 Aplikasi To-Do List ini dirancang untuk memberikan pengalaman pengguna yang efisien dan mudah digunakan. Baik Anda seorang pelajar, profesional, atau siapa saja yang ingin mengatur tugas harian dengan lebih baik, aplikasi ini adalah solusi tepat untuk menjaga produktivitas Anda tetap optimal.
+
+---
+
+Dengan format ini, screenshot akan ditampilkan dalam ukuran yang lebih kecil, dan akan tampak lebih rapi di GitHub. Pastikan untuk memeriksa apakah URL gambar sudah benar dan dapat diakses di repository GitHub Anda.
